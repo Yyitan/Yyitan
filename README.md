@@ -1,12 +1,12 @@
 # 你好，我是刘雨婷 (@Yyitan) 👋
 
 - 🎓 西南交通大学 · 计算机科学与技术 · 硕士在读
-- 🔬 研究方向：多模态学习、视觉语言模型（CLIP / 扩散模型）
+- 🔬 研究方向：计算机视觉、组合零样本学习
 - 📮 联系我：15114281343@163.com
 
 ## 🛠️ 技术栈
 
-**Python · PyTorch · CLIP · Stable Diffusion (diffusers) · Wav2Vec2 · BERT · MediaPipe · Linux GPU 集群**
+**Python · PyTorch · RAG · Function Calling · Prompt Engineering · CLIP · Stable Diffusion (diffusers) ·**
 
 ## 📌 一些项目
 
@@ -14,6 +14,3 @@
 - [multimodal-emotion-analysis](https://github.com/Yyitan/multimodal-emotion-analysis) —— 端到端多模态情感分析：词级时序对齐、缺失模态鲁棒预测、Shapley 可解释性分析
 - [awesome-czsl-2024-2026](https://github.com/Yyitan/awesome-czsl-2024-2026) —— 组合零样本学习（CZSL）近三年论文与资源列表
 
-<!--
-Currently open to research / ML engineering internships.
--->
